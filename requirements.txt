@@ -1,0 +1,17 @@
+# pip libraries to install
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+pyodbc
+sqlalchemy
+xlsxwriter
+glob
+os
+datetime
+time
+string
