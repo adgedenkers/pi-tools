@@ -1,4 +1,4 @@
-# pi-tools
+# pi-tools for Mac/Linux
 
 Adge's Pi Tools
 
